@@ -125,7 +125,7 @@ call <sid>hi('Constant',                   s:base09, '',       '',          '')
 call <sid>hi('Define',                     s:base0E, '',       '',          '')
 call <sid>hi('Delimiter',                  s:base0F, '',       '',          '')
 call <sid>hi('Float',                      s:base09, '',       '',          '')
-call <sid>hi('Function',                   s:base0D, '',       'NONE',      '')
+call <sid>hi('Function',                   s:base0D, '',       '',      '')
 call <sid>hi('Identifier',                 s:base0C, '',       '',          '')
 call <sid>hi('Include',                    s:base0D, '',       '',          '')
 call <sid>hi('Keyword',                    s:base0E, '',       '',          '')
@@ -275,6 +275,7 @@ call <sid>hi('jsImport',           s:base0E, '',       '',          '')
 call <sid>hi('jsOperator',           s:base0C, '',       '',          '')
 call <sid>hi('jsFunctionKey',           s:base09, '',       '',          '')
 call <sid>hi('jsFuncArgExpression',           s:base09, '',       '',          '')
+call <sid>hi('jsObjectValue',           s:base09, '',       '',          '')
 
 
 " }}}
