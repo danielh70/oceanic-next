@@ -270,6 +270,8 @@ call <sid>hi('jsxAttribKeyword',           s:base0E, '',       '',          '')
 call <sid>hi('jsxComponentName',           s:base0A, '',       '',          '')
 call <sid>hi('Type',                       '',       '',       'NONE',      '')
 call <sid>hi('jsArrowFunction',            s:base0E, '',       'NONE',      '')
+call <sid>hi('jsFuncArgs',           s:base09, '',       '',          '')
+call <sid>hi('jsImport',           s:base0E, '',       '',          '')
 
 
 " }}}
