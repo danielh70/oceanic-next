@@ -274,6 +274,7 @@ call <sid>hi('jsFuncArgs',           s:base09, '',       '',          '')
 call <sid>hi('jsImport',           s:base0E, '',       '',          '')
 call <sid>hi('jsOperator',           s:base0C, '',       '',          '')
 call <sid>hi('jsFunctionKey',           s:base09, '',       '',          '')
+call <sid>hi('jsFuncArgExpression',           s:base09, '',       '',          '')
 
 
 " }}}
