@@ -21,9 +21,6 @@
 " {{{ Bold
   let g:oceanic_next_terminal_bold = get(g:, 'oceanic_next_terminal_bold', 0)
   let s:bold = ""
-  if g:oceanic_next_terminal_bold == 1
-   let s:bold = "bold"
-  endif
 "}}}
 " {{{ Colors
   let s:base00=['#1b2b34', '235']
