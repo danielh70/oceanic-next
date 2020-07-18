@@ -190,9 +190,7 @@ call <sid>hi('htmlTagName',                s:base07, '',       '',          '')
 
 call <sid>hi('javaScript',                 s:base05, '',       '',          '')
 call <sid>hi('javaScriptNumber',           s:base09, '',       '',          '')
-call <sid>hi('jsArrowFunction',            s:base0E, '',       '',          '')
-call <sid>hi('javaScriptBraces',           s:base05, '',       '',          '')
-call <sid>hi('javaScriptBraces',           s:base05, '',       '',          '')
+call <sid>hi('javaScriptArrowFunction',            s:base0E, '',       '',          '')
 
 call <sid>hi('markdownCode',               s:base0B, '',       '',          '')
 call <sid>hi('markdownCodeBlock',          s:base0B, '',       '',          '')
