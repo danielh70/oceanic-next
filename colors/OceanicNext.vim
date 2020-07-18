@@ -125,7 +125,7 @@ call <sid>hi('Constant',                   s:base09, '',       '',          '')
 call <sid>hi('Define',                     s:base0E, '',       '',          '')
 call <sid>hi('Delimiter',                  s:base0F, '',       '',          '')
 call <sid>hi('Float',                      s:base09, '',       '',          '')
-call <sid>hi('Function',                   s:base0E, '',       '',          '')
+call <sid>hi('Function',                   s:base0D, '',       '',          '')
 call <sid>hi('Identifier',                 s:base0C, '',       '',          '')
 call <sid>hi('Include',                    s:base0D, '',       '',          '')
 call <sid>hi('Keyword',                    s:base0E, '',       '',          '')
@@ -190,6 +190,8 @@ call <sid>hi('htmlTagName',                s:base07, '',       '',          '')
 
 call <sid>hi('javaScript',                 s:base05, '',       '',          '')
 call <sid>hi('javaScriptNumber',           s:base09, '',       '',          '')
+call <sid>hi('jsArrowFunction',            s:base0E, '',       '',          '')
+call <sid>hi('javaScriptBraces',           s:base05, '',       '',          '')
 call <sid>hi('javaScriptBraces',           s:base05, '',       '',          '')
 
 call <sid>hi('markdownCode',               s:base0B, '',       '',          '')
@@ -254,7 +256,7 @@ call <sid>hi('SignifySignChangeDelete',    s:base0E, s:base00, s:bold,      '')
 call <sid>hi('SignifySignDeleteFirstLine', s:base08, s:base00, s:bold,      '')
 
 call <sid>hi('xmlTag',                     s:base0C, '',       '',          '')
-call <sid>hi('xmlTagName',                 s:base05, '',       '',          '')
+call <sid>hi('xmlTagName',                 s:base0A, '',       '',          '')
 call <sid>hi('xmlEndTag',                  s:base0C, '',       '',          '')
 
 
