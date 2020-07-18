@@ -191,6 +191,7 @@ call <sid>hi('htmlTagName',                s:base07, '',       '',          '')
 call <sid>hi('javaScript',                 s:base05, '',       '',          '')
 call <sid>hi('javaScriptNumber',           s:base09, '',       '',          '')
 call <sid>hi('javaScriptArrowFunction',            s:base0E, '',       '',          '')
+call <sid>hi('jsFunction',            s:base0E, '',       '',          '')
 
 call <sid>hi('markdownCode',               s:base0B, '',       '',          '')
 call <sid>hi('markdownCodeBlock',          s:base0B, '',       '',          '')
@@ -256,6 +257,11 @@ call <sid>hi('SignifySignDeleteFirstLine', s:base08, s:base00, s:bold,      '')
 call <sid>hi('xmlTag',                     s:base0A, '',       '',          '')
 call <sid>hi('xmlTagName',                 s:base0A, '',       '',          '')
 call <sid>hi('xmlEndTag',                  s:base04, '',       '',          '')
+
+call <sid>hi('jsxEndTag',                  s:base04, '',       '',          '')
+call <sid>hi('jsxTagName',                  s:base0A, '',       '',          '')
+call <sid>hi('jsxTag',                  s:base0A, '',       '',          '')
+call <sid>hi('jsSpreadOperator',                  s:base0C, '',       '',          '')
 
 
 " }}}
