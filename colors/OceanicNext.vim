@@ -259,9 +259,15 @@ call <sid>hi('xmlTagName',                 s:base0A, '',       '',          '')
 call <sid>hi('xmlEndTag',                  s:base04, '',       '',          '')
 
 call <sid>hi('jsxEndTag',                  s:base04, '',       '',          '')
-call <sid>hi('jsxTagName',                  s:base0A, '',       '',          '')
-call <sid>hi('jsxTag',                  s:base0A, '',       '',          '')
-call <sid>hi('jsSpreadOperator',                  s:base0C, '',       '',          '')
+call <sid>hi('jsxTagName',                 s:base0A, '',       '',          '')
+call <sid>hi('jsxTag',                     s:base0A, '',       '',          '')
+call <sid>hi('jsSpreadOperator',           s:base0C, '',       '',          '')
+call <sid>hi('jsThis',                     s:base08, '',       's:italic',  '')
+call <sid>hi('jsNull',                     s:base09, '',       's:italic',  '')
+call <sid>hi('jsUndefined',                s:base09, '',       's:italic',  '')
+call <sid>hi('jsxAttrib',                  s:base0E, '',       '',          '')
+call <sid>hi('jsxAttribKeyword',           s:base0E, '',       '',          '')
+call <sid>hi('Type',                       '',       '',       's:NONE',    '')
 
 
 " }}}
