@@ -133,7 +133,7 @@ call <sid>hi('PreProc',                    s:base0A, '',       '',          '')
 call <sid>hi('Repeat',                     s:base0A, '',       '',          '')
 call <sid>hi('Special',                    s:base0C, '',       '',          '')
 call <sid>hi('SpecialChar',                s:base0F, '',       '',          '')
-call <sid>hi('Statement',                  s:base08, '',       '',          '')
+call <sid>hi('Statement',                  s:base08, '',       'NONE',      '')
 call <sid>hi('StorageClass',               s:base0E, '',       '',          '')
 call <sid>hi('String',                     s:base0B, '',       '',          '')
 call <sid>hi('Structure',                  s:base0E, '',       '',          '')
@@ -273,6 +273,10 @@ call <sid>hi('jsFunctionKey',              s:base0A, '',       '',          '')
 call <sid>hi('jsFuncArgExpression',        s:base09, '',       '',          '')
 call <sid>hi('jsObjectValue',              s:base09, '',       '',          '')
 call <sid>hi('jsReturn',                   s:base0E, '',       'NONE',      '')
+
+
+call <sid>hi('cReturn',                    s:base0E, '',       'NONE',      '')
+call <sid>hi('cRepeat',                    s:base0E, '',       'NONE',      '')
 
 
 
